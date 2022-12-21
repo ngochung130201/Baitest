@@ -1,0 +1,7 @@
+.custom_css   .mantine-Image-image {
+  object-fit: contain !important;
+  
+}
+.custom_css  .mantine-Image-imageWrapper {
+  background-color: #ffff !important;
+}
